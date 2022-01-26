@@ -1,0 +1,30 @@
+header img {
+    height: 100px;
+    width: 100px;
+}
+
+header {
+    background-color: rgb(109, 109, 248);
+    padding: 7px;
+}
+
+a {
+   font-size: 35px; 
+   color: chartreuse;
+   background-color: coral;
+   border-radius: 10px;
+
+    }
+
+h1 {
+    text-align: center;
+}
+
+main img{
+    height:200px;
+}
+
+h2{ 
+
+ text-align: center;
+}
